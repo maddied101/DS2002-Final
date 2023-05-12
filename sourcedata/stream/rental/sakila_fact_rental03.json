@@ -1,0 +1,3362 @@
+[
+	{
+		"fact_rental_key" : 666,
+		"inventory_key" : 3075,
+		"customer_key" : 437,
+		"staff_key" : 2,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 667,
+		"inventory_key" : 797,
+		"customer_key" : 596,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 668,
+		"inventory_key" : 3528,
+		"customer_key" : 484,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"fact_rental_key" : 669,
+		"inventory_key" : 3677,
+		"customer_key" : 313,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 670,
+		"inventory_key" : 227,
+		"customer_key" : 201,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 671,
+		"inventory_key" : 1027,
+		"customer_key" : 14,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 672,
+		"inventory_key" : 697,
+		"customer_key" : 306,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 673,
+		"inventory_key" : 1769,
+		"customer_key" : 468,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 674,
+		"inventory_key" : 1150,
+		"customer_key" : 87,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 675,
+		"inventory_key" : 1273,
+		"customer_key" : 338,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 676,
+		"inventory_key" : 2329,
+		"customer_key" : 490,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"fact_rental_key" : 677,
+		"inventory_key" : 4558,
+		"customer_key" : 194,
+		"staff_key" : 2,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 678,
+		"inventory_key" : 3741,
+		"customer_key" : 269,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 679,
+		"inventory_key" : 907,
+		"customer_key" : 526,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 680,
+		"inventory_key" : 4147,
+		"customer_key" : 482,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 681,
+		"inventory_key" : 3346,
+		"customer_key" : 531,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 682,
+		"inventory_key" : 3160,
+		"customer_key" : 148,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"fact_rental_key" : 683,
+		"inventory_key" : 2038,
+		"customer_key" : 197,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 684,
+		"inventory_key" : 3242,
+		"customer_key" : 461,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 685,
+		"inventory_key" : 1385,
+		"customer_key" : 172,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 686,
+		"inventory_key" : 2441,
+		"customer_key" : 411,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 687,
+		"inventory_key" : 1731,
+		"customer_key" : 250,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 688,
+		"inventory_key" : 4135,
+		"customer_key" : 162,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 689,
+		"inventory_key" : 742,
+		"customer_key" : 571,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 690,
+		"inventory_key" : 2646,
+		"customer_key" : 85,
+		"staff_key" : 1,
+		"amount" : 9.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 691,
+		"inventory_key" : 4034,
+		"customer_key" : 433,
+		"staff_key" : 1,
+		"amount" : 10.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 692,
+		"inventory_key" : 800,
+		"customer_key" : 18,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 693,
+		"inventory_key" : 635,
+		"customer_key" : 190,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 694,
+		"inventory_key" : 592,
+		"customer_key" : 399,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 695,
+		"inventory_key" : 4276,
+		"customer_key" : 528,
+		"staff_key" : 1,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 696,
+		"inventory_key" : 2076,
+		"customer_key" : 19,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 697,
+		"inventory_key" : 3949,
+		"customer_key" : 387,
+		"staff_key" : 2,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 698,
+		"inventory_key" : 1412,
+		"customer_key" : 109,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 699,
+		"inventory_key" : 130,
+		"customer_key" : 246,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 700,
+		"inventory_key" : 500,
+		"customer_key" : 117,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 701,
+		"inventory_key" : 372,
+		"customer_key" : 112,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 702,
+		"inventory_key" : 2556,
+		"customer_key" : 475,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 703,
+		"inventory_key" : 1123,
+		"customer_key" : 269,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 704,
+		"inventory_key" : 2628,
+		"customer_key" : 330,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 705,
+		"inventory_key" : 2809,
+		"customer_key" : 257,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 706,
+		"inventory_key" : 2278,
+		"customer_key" : 60,
+		"staff_key" : 1,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 707,
+		"inventory_key" : 819,
+		"customer_key" : 252,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 708,
+		"inventory_key" : 3133,
+		"customer_key" : 127,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 709,
+		"inventory_key" : 2459,
+		"customer_key" : 479,
+		"staff_key" : 1,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 710,
+		"inventory_key" : 194,
+		"customer_key" : 518,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 711,
+		"inventory_key" : 4581,
+		"customer_key" : 215,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 712,
+		"inventory_key" : 4191,
+		"customer_key" : 313,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 713,
+		"inventory_key" : 3664,
+		"customer_key" : 507,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 714,
+		"inventory_key" : 2010,
+		"customer_key" : 452,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 715,
+		"inventory_key" : 2030,
+		"customer_key" : 545,
+		"staff_key" : 1,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 716,
+		"inventory_key" : 85,
+		"customer_key" : 36,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 717,
+		"inventory_key" : 1383,
+		"customer_key" : 412,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 718,
+		"inventory_key" : 1736,
+		"customer_key" : 498,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 719,
+		"inventory_key" : 267,
+		"customer_key" : 245,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 720,
+		"inventory_key" : 3687,
+		"customer_key" : 480,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 721,
+		"inventory_key" : 1116,
+		"customer_key" : 44,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 722,
+		"inventory_key" : 4540,
+		"customer_key" : 259,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 723,
+		"inventory_key" : 3407,
+		"customer_key" : 309,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 724,
+		"inventory_key" : 3770,
+		"customer_key" : 416,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 725,
+		"inventory_key" : 4088,
+		"customer_key" : 245,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 726,
+		"inventory_key" : 933,
+		"customer_key" : 452,
+		"staff_key" : 2,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 727,
+		"inventory_key" : 1629,
+		"customer_key" : 484,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 728,
+		"inventory_key" : 242,
+		"customer_key" : 551,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 729,
+		"inventory_key" : 1688,
+		"customer_key" : 323,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 730,
+		"inventory_key" : 3473,
+		"customer_key" : 197,
+		"staff_key" : 1,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 731,
+		"inventory_key" : 4124,
+		"customer_key" : 5,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 732,
+		"inventory_key" : 2530,
+		"customer_key" : 447,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 733,
+		"inventory_key" : 2951,
+		"customer_key" : 363,
+		"staff_key" : 1,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 734,
+		"inventory_key" : 3084,
+		"customer_key" : 538,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 735,
+		"inventory_key" : 3421,
+		"customer_key" : 454,
+		"staff_key" : 1,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 736,
+		"inventory_key" : 3689,
+		"customer_key" : 276,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 737,
+		"inventory_key" : 769,
+		"customer_key" : 589,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 738,
+		"inventory_key" : 2284,
+		"customer_key" : 256,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 739,
+		"inventory_key" : 1183,
+		"customer_key" : 84,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 740,
+		"inventory_key" : 600,
+		"customer_key" : 89,
+		"staff_key" : 2,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 741,
+		"inventory_key" : 3189,
+		"customer_key" : 495,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 742,
+		"inventory_key" : 273,
+		"customer_key" : 483,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 743,
+		"inventory_key" : 2528,
+		"customer_key" : 548,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 744,
+		"inventory_key" : 3722,
+		"customer_key" : 420,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 745,
+		"inventory_key" : 581,
+		"customer_key" : 152,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 746,
+		"inventory_key" : 4272,
+		"customer_key" : 130,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 747,
+		"inventory_key" : 1993,
+		"customer_key" : 291,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 748,
+		"inventory_key" : 2803,
+		"customer_key" : 7,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 749,
+		"inventory_key" : 1146,
+		"customer_key" : 375,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 750,
+		"inventory_key" : 730,
+		"customer_key" : 269,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 751,
+		"inventory_key" : 2711,
+		"customer_key" : 53,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 752,
+		"inventory_key" : 1720,
+		"customer_key" : 126,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 753,
+		"inventory_key" : 1021,
+		"customer_key" : 135,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 754,
+		"inventory_key" : 734,
+		"customer_key" : 281,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 755,
+		"inventory_key" : 3090,
+		"customer_key" : 576,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 756,
+		"inventory_key" : 3152,
+		"customer_key" : 201,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 757,
+		"inventory_key" : 1067,
+		"customer_key" : 435,
+		"staff_key" : 1,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 758,
+		"inventory_key" : 1191,
+		"customer_key" : 563,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 759,
+		"inventory_key" : 2367,
+		"customer_key" : 179,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 760,
+		"inventory_key" : 3250,
+		"customer_key" : 77,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 761,
+		"inventory_key" : 2342,
+		"customer_key" : 58,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 762,
+		"inventory_key" : 3683,
+		"customer_key" : 146,
+		"staff_key" : 1,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 763,
+		"inventory_key" : 2022,
+		"customer_key" : 50,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 764,
+		"inventory_key" : 1069,
+		"customer_key" : 149,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 765,
+		"inventory_key" : 515,
+		"customer_key" : 69,
+		"staff_key" : 1,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 766,
+		"inventory_key" : 2154,
+		"customer_key" : 383,
+		"staff_key" : 1,
+		"amount" : 8.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 767,
+		"inventory_key" : 687,
+		"customer_key" : 67,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 768,
+		"inventory_key" : 2895,
+		"customer_key" : 566,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 769,
+		"inventory_key" : 1523,
+		"customer_key" : 575,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 770,
+		"inventory_key" : 2491,
+		"customer_key" : 405,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 771,
+		"inventory_key" : 353,
+		"customer_key" : 476,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 772,
+		"inventory_key" : 3319,
+		"customer_key" : 556,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 773,
+		"inventory_key" : 245,
+		"customer_key" : 563,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 774,
+		"inventory_key" : 1188,
+		"customer_key" : 575,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 775,
+		"inventory_key" : 1197,
+		"customer_key" : 124,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 776,
+		"inventory_key" : 4339,
+		"customer_key" : 113,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 777,
+		"inventory_key" : 451,
+		"customer_key" : 360,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 778,
+		"inventory_key" : 1816,
+		"customer_key" : 535,
+		"staff_key" : 1,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 779,
+		"inventory_key" : 533,
+		"customer_key" : 105,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 780,
+		"inventory_key" : 1919,
+		"customer_key" : 300,
+		"staff_key" : 1,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 781,
+		"inventory_key" : 88,
+		"customer_key" : 313,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 782,
+		"inventory_key" : 2255,
+		"customer_key" : 596,
+		"staff_key" : 2,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 783,
+		"inventory_key" : 3046,
+		"customer_key" : 53,
+		"staff_key" : 2,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 784,
+		"inventory_key" : 2936,
+		"customer_key" : 352,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 785,
+		"inventory_key" : 39,
+		"customer_key" : 72,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 786,
+		"inventory_key" : 2637,
+		"customer_key" : 439,
+		"staff_key" : 2,
+		"amount" : 9.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 787,
+		"inventory_key" : 3919,
+		"customer_key" : 27,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 788,
+		"inventory_key" : 763,
+		"customer_key" : 562,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 789,
+		"inventory_key" : 708,
+		"customer_key" : 553,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 790,
+		"inventory_key" : 2858,
+		"customer_key" : 593,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 791,
+		"inventory_key" : 1554,
+		"customer_key" : 284,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 792,
+		"inventory_key" : 2841,
+		"customer_key" : 261,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 793,
+		"inventory_key" : 379,
+		"customer_key" : 528,
+		"staff_key" : 2,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 794,
+		"inventory_key" : 1995,
+		"customer_key" : 50,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 795,
+		"inventory_key" : 609,
+		"customer_key" : 551,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 796,
+		"inventory_key" : 2697,
+		"customer_key" : 26,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 797,
+		"inventory_key" : 1446,
+		"customer_key" : 244,
+		"staff_key" : 1,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 798,
+		"inventory_key" : 1102,
+		"customer_key" : 134,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 799,
+		"inventory_key" : 1713,
+		"customer_key" : 429,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 800,
+		"inventory_key" : 441,
+		"customer_key" : 472,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 801,
+		"inventory_key" : 1642,
+		"customer_key" : 402,
+		"staff_key" : 2,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 802,
+		"inventory_key" : 785,
+		"customer_key" : 350,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 803,
+		"inventory_key" : 1602,
+		"customer_key" : 32,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 804,
+		"inventory_key" : 3909,
+		"customer_key" : 171,
+		"staff_key" : 1,
+		"amount" : 9.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 805,
+		"inventory_key" : 3132,
+		"customer_key" : 232,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 806,
+		"inventory_key" : 2386,
+		"customer_key" : 435,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 807,
+		"inventory_key" : 2195,
+		"customer_key" : 235,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 808,
+		"inventory_key" : 1928,
+		"customer_key" : 104,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 809,
+		"inventory_key" : 2114,
+		"customer_key" : 222,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 810,
+		"inventory_key" : 2533,
+		"customer_key" : 346,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 811,
+		"inventory_key" : 4419,
+		"customer_key" : 401,
+		"staff_key" : 2,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 812,
+		"inventory_key" : 1099,
+		"customer_key" : 225,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 813,
+		"inventory_key" : 4554,
+		"customer_key" : 344,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 814,
+		"inventory_key" : 1572,
+		"customer_key" : 134,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 815,
+		"inventory_key" : 3757,
+		"customer_key" : 14,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 816,
+		"inventory_key" : 630,
+		"customer_key" : 474,
+		"staff_key" : 2,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 817,
+		"inventory_key" : 186,
+		"customer_key" : 554,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 818,
+		"inventory_key" : 4106,
+		"customer_key" : 321,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 819,
+		"inventory_key" : 623,
+		"customer_key" : 511,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 820,
+		"inventory_key" : 2584,
+		"customer_key" : 22,
+		"staff_key" : 2,
+		"amount" : 8.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 821,
+		"inventory_key" : 3380,
+		"customer_key" : 348,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 822,
+		"inventory_key" : 2634,
+		"customer_key" : 480,
+		"staff_key" : 1,
+		"amount" : 9.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 823,
+		"inventory_key" : 3249,
+		"customer_key" : 441,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 824,
+		"inventory_key" : 3518,
+		"customer_key" : 357,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 825,
+		"inventory_key" : 712,
+		"customer_key" : 371,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 826,
+		"inventory_key" : 2263,
+		"customer_key" : 207,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 827,
+		"inventory_key" : 62,
+		"customer_key" : 573,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 828,
+		"inventory_key" : 2468,
+		"customer_key" : 217,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 829,
+		"inventory_key" : 1684,
+		"customer_key" : 371,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 830,
+		"inventory_key" : 3464,
+		"customer_key" : 3,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 831,
+		"inventory_key" : 3912,
+		"customer_key" : 509,
+		"staff_key" : 1,
+		"amount" : 8.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 832,
+		"inventory_key" : 1381,
+		"customer_key" : 159,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 833,
+		"inventory_key" : 2898,
+		"customer_key" : 417,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 834,
+		"inventory_key" : 3628,
+		"customer_key" : 84,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"fact_rental_key" : 835,
+		"inventory_key" : 299,
+		"customer_key" : 381,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 836,
+		"inventory_key" : 3140,
+		"customer_key" : 368,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 837,
+		"inventory_key" : 977,
+		"customer_key" : 172,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 838,
+		"inventory_key" : 2859,
+		"customer_key" : 504,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 839,
+		"inventory_key" : 1886,
+		"customer_key" : 337,
+		"staff_key" : 1,
+		"amount" : 8.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 840,
+		"inventory_key" : 4049,
+		"customer_key" : 79,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 841,
+		"inventory_key" : 4318,
+		"customer_key" : 387,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 842,
+		"inventory_key" : 2328,
+		"customer_key" : 238,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 843,
+		"inventory_key" : 2214,
+		"customer_key" : 313,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 844,
+		"inventory_key" : 536,
+		"customer_key" : 429,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 845,
+		"inventory_key" : 2001,
+		"customer_key" : 72,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 846,
+		"inventory_key" : 938,
+		"customer_key" : 49,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 847,
+		"inventory_key" : 4387,
+		"customer_key" : 380,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 848,
+		"inventory_key" : 1363,
+		"customer_key" : 436,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 849,
+		"inventory_key" : 2424,
+		"customer_key" : 449,
+		"staff_key" : 1,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 850,
+		"inventory_key" : 2390,
+		"customer_key" : 517,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 851,
+		"inventory_key" : 2780,
+		"customer_key" : 530,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 852,
+		"inventory_key" : 1622,
+		"customer_key" : 549,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 853,
+		"inventory_key" : 3693,
+		"customer_key" : 122,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 854,
+		"inventory_key" : 921,
+		"customer_key" : 369,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 855,
+		"inventory_key" : 2527,
+		"customer_key" : 406,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 856,
+		"inventory_key" : 3969,
+		"customer_key" : 53,
+		"staff_key" : 1,
+		"amount" : 9.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 857,
+		"inventory_key" : 2569,
+		"customer_key" : 204,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 858,
+		"inventory_key" : 1258,
+		"customer_key" : 358,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 859,
+		"inventory_key" : 3032,
+		"customer_key" : 79,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 860,
+		"inventory_key" : 578,
+		"customer_key" : 276,
+		"staff_key" : 1,
+		"amount" : 10.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 861,
+		"inventory_key" : 3711,
+		"customer_key" : 502,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 862,
+		"inventory_key" : 1186,
+		"customer_key" : 328,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 863,
+		"inventory_key" : 3999,
+		"customer_key" : 379,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 864,
+		"inventory_key" : 2777,
+		"customer_key" : 544,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 865,
+		"inventory_key" : 3183,
+		"customer_key" : 154,
+		"staff_key" : 2,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 866,
+		"inventory_key" : 2867,
+		"customer_key" : 8,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 867,
+		"inventory_key" : 3389,
+		"customer_key" : 99,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 868,
+		"inventory_key" : 3604,
+		"customer_key" : 28,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 869,
+		"inventory_key" : 3399,
+		"customer_key" : 296,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 870,
+		"inventory_key" : 2903,
+		"customer_key" : 391,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 871,
+		"inventory_key" : 4573,
+		"customer_key" : 303,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 872,
+		"inventory_key" : 3904,
+		"customer_key" : 548,
+		"staff_key" : 1,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 873,
+		"inventory_key" : 4568,
+		"customer_key" : 375,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 874,
+		"inventory_key" : 363,
+		"customer_key" : 52,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 875,
+		"inventory_key" : 1428,
+		"customer_key" : 326,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 876,
+		"inventory_key" : 1471,
+		"customer_key" : 339,
+		"staff_key" : 2,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 877,
+		"inventory_key" : 886,
+		"customer_key" : 9,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 878,
+		"inventory_key" : 4265,
+		"customer_key" : 323,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 879,
+		"inventory_key" : 4021,
+		"customer_key" : 482,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 880,
+		"inventory_key" : 1819,
+		"customer_key" : 460,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 881,
+		"inventory_key" : 602,
+		"customer_key" : 242,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 882,
+		"inventory_key" : 3841,
+		"customer_key" : 477,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 883,
+		"inventory_key" : 2271,
+		"customer_key" : 399,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 884,
+		"inventory_key" : 4079,
+		"customer_key" : 17,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 885,
+		"inventory_key" : 646,
+		"customer_key" : 62,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 886,
+		"inventory_key" : 4356,
+		"customer_key" : 393,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 887,
+		"inventory_key" : 2727,
+		"customer_key" : 16,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 888,
+		"inventory_key" : 387,
+		"customer_key" : 128,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 889,
+		"inventory_key" : 1299,
+		"customer_key" : 114,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 890,
+		"inventory_key" : 1464,
+		"customer_key" : 349,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 891,
+		"inventory_key" : 2611,
+		"customer_key" : 391,
+		"staff_key" : 1,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 892,
+		"inventory_key" : 471,
+		"customer_key" : 274,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 893,
+		"inventory_key" : 3260,
+		"customer_key" : 502,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 894,
+		"inventory_key" : 1118,
+		"customer_key" : 400,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 895,
+		"inventory_key" : 2744,
+		"customer_key" : 192,
+		"staff_key" : 1,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 896,
+		"inventory_key" : 2817,
+		"customer_key" : 207,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 897,
+		"inventory_key" : 1334,
+		"customer_key" : 432,
+		"staff_key" : 1,
+		"amount" : 8.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 898,
+		"inventory_key" : 3497,
+		"customer_key" : 384,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 899,
+		"inventory_key" : 1096,
+		"customer_key" : 156,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 900,
+		"inventory_key" : 3543,
+		"customer_key" : 586,
+		"staff_key" : 1,
+		"amount" : 8.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 901,
+		"inventory_key" : 760,
+		"customer_key" : 259,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 902,
+		"inventory_key" : 1514,
+		"customer_key" : 561,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 903,
+		"inventory_key" : 2423,
+		"customer_key" : 197,
+		"staff_key" : 1,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 904,
+		"inventory_key" : 2466,
+		"customer_key" : 44,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 905,
+		"inventory_key" : 4372,
+		"customer_key" : 50,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 906,
+		"inventory_key" : 1862,
+		"customer_key" : 549,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 907,
+		"inventory_key" : 3320,
+		"customer_key" : 506,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 908,
+		"inventory_key" : 4427,
+		"customer_key" : 85,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 909,
+		"inventory_key" : 3775,
+		"customer_key" : 486,
+		"staff_key" : 1,
+		"amount" : 8.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 910,
+		"inventory_key" : 2601,
+		"customer_key" : 374,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 911,
+		"inventory_key" : 1404,
+		"customer_key" : 366,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 912,
+		"inventory_key" : 3200,
+		"customer_key" : 390,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 913,
+		"inventory_key" : 3213,
+		"customer_key" : 369,
+		"staff_key" : 2,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 914,
+		"inventory_key" : 1393,
+		"customer_key" : 596,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 915,
+		"inventory_key" : 1859,
+		"customer_key" : 115,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 916,
+		"inventory_key" : 1290,
+		"customer_key" : 6,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 917,
+		"inventory_key" : 3629,
+		"customer_key" : 385,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 918,
+		"inventory_key" : 818,
+		"customer_key" : 197,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 919,
+		"inventory_key" : 4052,
+		"customer_key" : 374,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 920,
+		"inventory_key" : 3860,
+		"customer_key" : 584,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 921,
+		"inventory_key" : 1827,
+		"customer_key" : 508,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 922,
+		"inventory_key" : 2442,
+		"customer_key" : 550,
+		"staff_key" : 2,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 923,
+		"inventory_key" : 1884,
+		"customer_key" : 37,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 924,
+		"inventory_key" : 3279,
+		"customer_key" : 293,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 925,
+		"inventory_key" : 3203,
+		"customer_key" : 137,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 926,
+		"inventory_key" : 4327,
+		"customer_key" : 76,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 927,
+		"inventory_key" : 1158,
+		"customer_key" : 167,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 928,
+		"inventory_key" : 246,
+		"customer_key" : 79,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 929,
+		"inventory_key" : 4296,
+		"customer_key" : 536,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 930,
+		"inventory_key" : 2835,
+		"customer_key" : 141,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 931,
+		"inventory_key" : 3384,
+		"customer_key" : 421,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 932,
+		"inventory_key" : 719,
+		"customer_key" : 198,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 933,
+		"inventory_key" : 3672,
+		"customer_key" : 66,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 934,
+		"inventory_key" : 3595,
+		"customer_key" : 60,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 935,
+		"inventory_key" : 2421,
+		"customer_key" : 256,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 936,
+		"inventory_key" : 901,
+		"customer_key" : 469,
+		"staff_key" : 1,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 937,
+		"inventory_key" : 1054,
+		"customer_key" : 304,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 938,
+		"inventory_key" : 1521,
+		"customer_key" : 46,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 939,
+		"inventory_key" : 1314,
+		"customer_key" : 367,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 940,
+		"inventory_key" : 1278,
+		"customer_key" : 534,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 941,
+		"inventory_key" : 3630,
+		"customer_key" : 562,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 942,
+		"inventory_key" : 4279,
+		"customer_key" : 473,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 943,
+		"inventory_key" : 3737,
+		"customer_key" : 57,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 944,
+		"inventory_key" : 151,
+		"customer_key" : 131,
+		"staff_key" : 2,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 945,
+		"inventory_key" : 1441,
+		"customer_key" : 357,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 946,
+		"inventory_key" : 1264,
+		"customer_key" : 486,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 947,
+		"inventory_key" : 4478,
+		"customer_key" : 62,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 948,
+		"inventory_key" : 585,
+		"customer_key" : 245,
+		"staff_key" : 2,
+		"amount" : 8.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 949,
+		"inventory_key" : 2202,
+		"customer_key" : 368,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 950,
+		"inventory_key" : 491,
+		"customer_key" : 83,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 951,
+		"inventory_key" : 1395,
+		"customer_key" : 59,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 952,
+		"inventory_key" : 4389,
+		"customer_key" : 311,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 953,
+		"inventory_key" : 2194,
+		"customer_key" : 210,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 954,
+		"inventory_key" : 1231,
+		"customer_key" : 297,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 955,
+		"inventory_key" : 4140,
+		"customer_key" : 301,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 956,
+		"inventory_key" : 647,
+		"customer_key" : 296,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 957,
+		"inventory_key" : 4428,
+		"customer_key" : 440,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 958,
+		"inventory_key" : 548,
+		"customer_key" : 186,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 959,
+		"inventory_key" : 3108,
+		"customer_key" : 535,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 960,
+		"inventory_key" : 1966,
+		"customer_key" : 445,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 961,
+		"inventory_key" : 3293,
+		"customer_key" : 588,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 962,
+		"inventory_key" : 4535,
+		"customer_key" : 520,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 963,
+		"inventory_key" : 1921,
+		"customer_key" : 225,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 964,
+		"inventory_key" : 657,
+		"customer_key" : 287,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 965,
+		"inventory_key" : 3363,
+		"customer_key" : 502,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 966,
+		"inventory_key" : 1294,
+		"customer_key" : 496,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 967,
+		"inventory_key" : 1954,
+		"customer_key" : 330,
+		"staff_key" : 2,
+		"amount" : 7.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050609
+	},
+	{
+		"fact_rental_key" : 968,
+		"inventory_key" : 119,
+		"customer_key" : 576,
+		"staff_key" : 2,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 969,
+		"inventory_key" : 443,
+		"customer_key" : 551,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 970,
+		"inventory_key" : 1520,
+		"customer_key" : 307,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050609
+	},
+	{
+		"fact_rental_key" : 971,
+		"inventory_key" : 2911,
+		"customer_key" : 561,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 972,
+		"inventory_key" : 2,
+		"customer_key" : 411,
+		"staff_key" : 1,
+		"amount" : 1.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 973,
+		"inventory_key" : 1914,
+		"customer_key" : 473,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 974,
+		"inventory_key" : 2617,
+		"customer_key" : 596,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 975,
+		"inventory_key" : 3109,
+		"customer_key" : 7,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 976,
+		"inventory_key" : 2290,
+		"customer_key" : 581,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 977,
+		"inventory_key" : 2029,
+		"customer_key" : 394,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 978,
+		"inventory_key" : 407,
+		"customer_key" : 154,
+		"staff_key" : 1,
+		"amount" : 5.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 979,
+		"inventory_key" : 3917,
+		"customer_key" : 279,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 980,
+		"inventory_key" : 4169,
+		"customer_key" : 273,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 981,
+		"inventory_key" : 2913,
+		"customer_key" : 326,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 982,
+		"inventory_key" : 3560,
+		"customer_key" : 524,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 983,
+		"inventory_key" : 63,
+		"customer_key" : 115,
+		"staff_key" : 1,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 984,
+		"inventory_key" : 2305,
+		"customer_key" : 262,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 985,
+		"inventory_key" : 1573,
+		"customer_key" : 564,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 986,
+		"inventory_key" : 4045,
+		"customer_key" : 253,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 987,
+		"inventory_key" : 390,
+		"customer_key" : 11,
+		"staff_key" : 1,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 988,
+		"inventory_key" : 1364,
+		"customer_key" : 12,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 989,
+		"inventory_key" : 4388,
+		"customer_key" : 83,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 990,
+		"inventory_key" : 4171,
+		"customer_key" : 311,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 991,
+		"inventory_key" : 2863,
+		"customer_key" : 593,
+		"staff_key" : 1,
+		"amount" : 8.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"fact_rental_key" : 992,
+		"inventory_key" : 3572,
+		"customer_key" : 123,
+		"staff_key" : 1,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"fact_rental_key" : 993,
+		"inventory_key" : 2080,
+		"customer_key" : 513,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 994,
+		"inventory_key" : 2798,
+		"customer_key" : 472,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"fact_rental_key" : 995,
+		"inventory_key" : 17,
+		"customer_key" : 150,
+		"staff_key" : 2,
+		"amount" : 3.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050606
+	},
+	{
+		"fact_rental_key" : 996,
+		"inventory_key" : 2075,
+		"customer_key" : 331,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050531
+	},
+	{
+		"fact_rental_key" : 997,
+		"inventory_key" : 4243,
+		"customer_key" : 216,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050602
+	},
+	{
+		"fact_rental_key" : 998,
+		"inventory_key" : 3395,
+		"customer_key" : 389,
+		"staff_key" : 1,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050601
+	},
+	{
+		"fact_rental_key" : 999,
+		"inventory_key" : 4433,
+		"customer_key" : 413,
+		"staff_key" : 2,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050603
+	},
+	{
+		"fact_rental_key" : 1000,
+		"inventory_key" : 1774,
+		"customer_key" : 332,
+		"staff_key" : 2,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050608
+	},
+	{
+		"fact_rental_key" : 1001,
+		"inventory_key" : 1498,
+		"customer_key" : 64,
+		"staff_key" : 2,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 21:30:53",
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050606
+	}
+]
